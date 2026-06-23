@@ -43,7 +43,7 @@ Every viewer sees the same film on the same night — the list is shuffled with 
 Just send friends the link:
 
 ```
-https://YOUR-USERNAME.github.io/halloween-advent-2026
+https://bu1dak-gh.github.io/halloween-advent-2026
 ```
 
 No app, no account, no install needed. Works in any modern browser.
